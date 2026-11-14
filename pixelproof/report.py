@@ -48,7 +48,6 @@ th{color:var(--ink2);font-weight:600}td.num{text-align:right;font-variant-numeri
 .ex img{width:100%%;display:block;background:#fff}.ex .b{padding:10px 12px;font-size:13px}
 .ok{color:var(--good);font-weight:600}.no{color:var(--bad);font-weight:600}
 .bar{height:18px;border-radius:0 4px 4px 0;background:var(--accent)}
-@media (max-width:600px){main{padding:24px 12px 48px}h1{font-size:26px}.card{padding:12px}td[style*="width:34%%"]{width:58%%!important}}
 code{font-size:12.5px;background:var(--grid);padding:1px 5px;border-radius:4px}
 ul.lim li{margin:4px 0}
 """

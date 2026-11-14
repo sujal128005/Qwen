@@ -3,7 +3,9 @@
 **A verifiable Visual Task Factory for evaluating vision-language models.**
 Every answer is re-derived from pixels. Every question is proven to need the image.
 
-**🌐 Live demo report:** [https://sujal128005.github.io/Qwen/](https://sujal128005.github.io/Qwen/)
+**🌐 Live demo:**
+- **PixelProof Studio** (interactive): [https://pixelproof-gk2j.onrender.com](https://pixelproof-gk2j.onrender.com) *(free Render instance: the first visit after a quiet spell can take up to a minute to wake up)*
+- **Findings report**: [https://sujal128005.github.io/Qwen/](https://sujal128005.github.io/Qwen/)
 
 PixelProof generates, validates and scores visual-reasoning tasks drawn from real operational settings —
 reading industrial gauges, business charts and technical diagrams — where a single misread value leads to a wrong

@@ -4,3 +4,5 @@ __pycache__/
 data/*/cache/
 data/frontier/
 *.zip
+data/.studio_cache.jsonl
+demo/out/
